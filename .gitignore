@@ -1,5 +1,5 @@
 # Binaries
-/awswap
+/awsctx
 *.exe
 *.out
 
@@ -16,3 +16,7 @@ go.work.sum
 .DS_Store
 .idea/
 .vscode/
+
+# Misc
+TODO.md
+*.log
